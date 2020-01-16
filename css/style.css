@@ -607,6 +607,7 @@ a img.aligncenter {
 /* FOOTER */
 .site-footer {
   padding: 30px 0 70px;
+  background-color: #f8f8f8;
 }
 .site-footer > div {
   display: flex;
@@ -724,6 +725,7 @@ a img.aligncenter {
 
 .section-1 {
   padding: 70px 0 250px;
+  background: url('../img/block_1_bg2.png')
 }
 .section-1 .row {
   position: relative;
